@@ -14,7 +14,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
   
 
 
