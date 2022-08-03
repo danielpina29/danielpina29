@@ -32,15 +32,6 @@
 </a>
 </p>
 
-
-<h2 align="center">
-  My Contribution Graph
-</h2>
-<p align="center">
-  <img src="https://github.com/danielpina29/danielpina29/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
- 
 <br>
 
 <p align = "center">
