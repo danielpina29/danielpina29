@@ -7,7 +7,7 @@
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+ <img src="[[https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white](https://cdn.worldvectorlogo.com/logos/c-1.svg)](https://cdn.worldvectorlogo.com/logos/c-1.svg)"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
