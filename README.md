@@ -15,10 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
   
-
-
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
