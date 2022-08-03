@@ -4,7 +4,7 @@
   I'm a 3rd year student pursuing a bachelor degree in Computer Science 🎓 from Instituto Superior de Engenharia de Lisboa - ISEL 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 </p> 
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Toolbox</h2>
 
 <p align="center">
 
@@ -18,7 +18,7 @@
   
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Social Media</h2>
 
 <p align="center">
 <a href="mailto: danielpina2907@gmail.com">
