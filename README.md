@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgres"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 
 </p>
