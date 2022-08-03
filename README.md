@@ -65,7 +65,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=danielpina29&show_icons=true&theme=vue-dark&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=danielpina29&theme=vue-dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=danielpina29&hide=shell,batchfile,&theme=vue-dark">
 </p>
 
 <hr>
