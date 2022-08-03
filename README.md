@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50" height="50"/>
 <img src="https://img.shields.io/badge/-Kotlin-E34F26?style=flat-square&logo=kotlin"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
