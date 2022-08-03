@@ -25,10 +25,10 @@
 
 <p align="center">
 <a href="mailto: danielpina2907@gmail.com">
- <img src="https://img.shields.io/badge/-DanielPina-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpina2907@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Daniel Pina-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpina2907@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/daniel-pina-37a1851b7/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pina-37a1851b7/"/>
+ <img src="https://img.shields.io/badge/-Daniel Pina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pina-37a1851b7/"/>
 </a>
 </p>
 
